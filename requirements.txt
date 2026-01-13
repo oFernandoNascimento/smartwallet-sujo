@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+pandas
+plotly
+requests
+pytz
+psycopg2-binary
+fpdf
+openpyxl
