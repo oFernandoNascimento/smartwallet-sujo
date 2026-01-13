@@ -148,7 +148,7 @@ class UIManager:
             .kpi-label { font-size: 13px; color: #aaa; font-weight: 500; text-transform: uppercase; letter-spacing: 1px; }
             .kpi-value { font-size: 32px; font-weight: 600; margin-top: 8px; letter-spacing: -0.5px; }
             
-            div.stButton > button { border-radius: 50px; font-weight: 600; padding: 0.6rem 2rem; border: none; box-shadow: 0 2px 5px rgba(0,0,0,0.2); background-color: #4CAF50 !important; color: white !important; }
+            div.stButton > button { border-radius: 50px; font-weight: 600; padding: 0.6rem 2rem; border: none; box-shadow: 0 2px 5px rgba(0,0,0,0.2); }
             div.stButton > button:hover { transform: translateY(-2px); }
             
             div[data-baseweb="input"] > div { border-radius: 12px !important; background-color: #121318 !important; border: 1px solid #333 !important; color: white !important; }
@@ -1127,4 +1127,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
